@@ -1,7 +1,7 @@
 # Franco Javier Gadea
 
 
-### Contacto
+## Contacto
 
 - 💼 **Portfolio**: [https://francojaviergadea.github.io](https://francojaviergadea.github.io)
   
